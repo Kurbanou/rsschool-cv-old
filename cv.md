@@ -65,4 +65,4 @@ function solution(str){
 * English - B1 (Pre-Intermediate)
 
 
-**********************
+********************
